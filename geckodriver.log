@@ -1,0 +1,22 @@
+1599325168079	geckodriver	INFO	Listening on 127.0.0.1:38945
+1599325168428	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAZAlvj"
+*** You are running in headless mode.
+1599325202640	Marionette	INFO	Listening on port 15093
+1599325202719	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:29033): dconf-WARNING **: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+1599325460981	geckodriver	INFO	Listening on 127.0.0.1:9975
+1599325461030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBrh3l6"
+*** You are running in headless mode.
+1599325465968	Marionette	INFO	Listening on port 25243
+1599325466041	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599326070884	geckodriver	INFO	Listening on 127.0.0.1:58533
+1599326071051	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewYQcf5"
+*** You are running in headless mode.
+1599326075982	Marionette	INFO	Listening on port 20715
+1599326076068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599326323944	geckodriver	INFO	Listening on 127.0.0.1:35237
+1599326323966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenAnjIi"
+*** You are running in headless mode.
+1599326327880	Marionette	INFO	Listening on port 35223
+1599326327977	Marionette	WARN	TLS certificate errors will be ignored for this session
