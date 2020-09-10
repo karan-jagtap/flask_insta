@@ -21,6 +21,7 @@ Jinja2==2.11.2
 jsonschema==2.6.0
 MarkupSafe==1.1.1
 MeaningCloud-python==1.2.3
+pkg-resources==0.0.0
 plyer==1.4.3
 protobuf==3.13.0
 pycparser==2.20
@@ -35,5 +36,5 @@ soupsieve==2.0.1
 tornado==6.0.4
 tqdm==4.48.2
 urllib3==1.25.10
-webdriverdownloader==1.1.0.3
+-e git+https://github.com/kmessilj/webdriverdownloader@3c1e6628e31ff912455a9fcb8e67176fa6ff2369#egg=webdriverdownloader
 Werkzeug==1.0.1
