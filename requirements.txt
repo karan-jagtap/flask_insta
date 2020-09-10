@@ -21,7 +21,6 @@ Jinja2==2.11.2
 jsonschema==2.6.0
 MarkupSafe==1.1.1
 MeaningCloud-python==1.2.3
-pkg-resources==0.0.0
 plyer==1.4.3
 protobuf==3.13.0
 pycparser==2.20
