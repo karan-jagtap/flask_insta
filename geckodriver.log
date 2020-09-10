@@ -20,3 +20,9 @@
 *** You are running in headless mode.
 1599326327880	Marionette	INFO	Listening on port 35223
 1599326327977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1599770402896	geckodriver	INFO	Listening on 127.0.0.1:36903
+1599770402930	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2qJoEF"
+*** You are running in headless mode.
+1599770409898	Marionette	INFO	Listening on port 24389
+1599770409947	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 3437, Chrome_ChildThread] WARNING: pipe error (30): Connection reset by peer: file /build/firefox-x_t4I3/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
